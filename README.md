@@ -31,3 +31,33 @@ This tool is designed for **educational and preliminary guidance only** and shou
 
 ## 📂 Project Structure
 
+Medical-Self-Help-App-using-GPT/
+│
+├── app.py # Main application
+├── requirements.txt # Libraries required
+├── assets/ # Sample medical images/icons
+└── README.md
+
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the repository
+
+git clone https://github.com/Vimalkanth7/-Medical-Self-Help-App-using-GPT.git
+cd Medical-Self-Help-App-using-GPT
+
+### 2️⃣ Create a virtual environment
+python -m venv medical_env
+medical_env\Scripts\activate  # Windows
+
+3️⃣ Install requirements
+pip install -r requirements.txt
+
+4️⃣ Add OpenAI API Key
+Create a .env file:
+OPENAI_API_KEY=your_api_key_here
+
+▶️ Run Application
+streamlit run app.py
