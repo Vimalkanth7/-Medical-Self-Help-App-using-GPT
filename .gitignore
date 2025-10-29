@@ -1,0 +1,5 @@
+"medical_env/" 
+
+
+echo "medical_env/" >> .gitignore
+echo ".env" >> .gitignore
