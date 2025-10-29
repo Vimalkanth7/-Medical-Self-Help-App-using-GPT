@@ -61,3 +61,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ▶️ Run Application
 streamlit run app.py
+
+Snippet:
+<img width="483" height="817" alt="image" src="https://github.com/user-attachments/assets/80d55022-78bb-4345-a2db-630cf245619a" />
+
